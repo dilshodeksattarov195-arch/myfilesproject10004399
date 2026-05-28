@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smspalidate",
+        "uuid": 10201281,
+        "checksum": "h5w10k"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
